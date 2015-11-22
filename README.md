@@ -1,2 +1,2 @@
 # Capstone
-Capstone Project Repoository
+Capstone Project Repository
